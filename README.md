@@ -22,6 +22,8 @@ This data set contains the following features:
 
 ## Result:
 
+This simple linear regression achieved the following evaluation metrics.
+
 ### Evaluation Metrics:
 
 - MAE: 3.148255754816822
