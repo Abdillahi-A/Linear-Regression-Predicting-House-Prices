@@ -2,7 +2,7 @@
 
 
 ## Goal:
-In this project we will be working the Boston House Price data set. We will create a linear model that will predict the median value of a home given a set of features.
+In this project we will be working the [Boston House Price dataset](https://www.kaggle.com/vikrishnan/boston-house-prices). We will create a linear model that will predict the median value of a home given a set of features.
 
 This data set contains the following features:
 
