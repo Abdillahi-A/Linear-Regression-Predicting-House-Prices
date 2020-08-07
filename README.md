@@ -1,4 +1,4 @@
-# LinearRegressionPredictingHousePrices
+# Linear Regression for Predicting House Prices
 
 
 ## Goal:
